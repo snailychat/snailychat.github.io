@@ -57,7 +57,8 @@
 .chat_field {
     position: fixed;
     bottom: 0;
-    right: -50;
+    right:  0;
+    left: 10;
     margin: 20px 0 20px 0;
     width: 50%;
     font-family: 'Roboto';
