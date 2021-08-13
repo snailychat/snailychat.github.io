@@ -1,4 +1,4 @@
-const ws_uri = `ws://backend.mafia7777.repl.co/`
+const ws_uri = `ws://paid1.somehost.xyz:1232/`
 const ws = new WebSocket(ws_uri);
 
 ws.onopen = () => {
