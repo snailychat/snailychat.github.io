@@ -74,12 +74,12 @@
 
 /*test*/
 div.test {
-    height: 10em;
+    height: 50em;
     position: relative }
 div.test textarea {
     margin: 0;
     position: absolute;
-    top: 100%;
+    top: 50%;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%) }
