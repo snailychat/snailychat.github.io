@@ -1,4 +1,4 @@
-const ws_uri = `ws://finop.somehost.ml:8888/`
+const ws_uri = `ws://localhost:6543/`
 const ws = new WebSocket(ws_uri);
 
 ws.onopen = () => {
