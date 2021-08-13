@@ -1,4 +1,4 @@
-const ws_uri = `ws://paid1.somehost.xyz:1232/`
+const ws_uri = `ws://paid1.somehost.xyz:8888/`
 const ws = new WebSocket(ws_uri);
 
 ws.onopen = () => {
